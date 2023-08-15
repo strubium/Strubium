@@ -6,4 +6,9 @@ Strubium's certifications and knowledge:
 * Microsoft Word Certified
 * Working on my HTML and Java Certification's 
 
+Fun Facts:
+* Pack/server developer for the Minecraft server [GeoPol](https://www.curseforge.com/minecraft/modpacks/geopol)
+* Programmer/owner of [Lost Cities Squared](https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=strubium)
