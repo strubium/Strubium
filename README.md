@@ -1,4 +1,5 @@
-### Wow! Github!
+
+### ![New Piskel-2](https://github.com/strubium/Strubium/assets/113206902/8bd6c789-c5ce-43ad-ba5b-04e163fe043b) Wow! Github! ![New Piskel-2](https://github.com/strubium/Strubium/assets/113206902/8bd6c789-c5ce-43ad-ba5b-04e163fe043b)
 
 
 Strubium's certifications and knowledge:
