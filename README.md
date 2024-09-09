@@ -9,7 +9,7 @@
 
 ### Fun Facts:
 * Pack/server developer for the Minecraft server [GeoPol](https://www.curseforge.com/minecraft/modpacks/geopol)  <a href="https://www.curseforge.com/minecraft/modpacks/geopol"><img src="https://cf.way2muchnoise.eu/full_geopol_downloads.svg"></a> 
-* Programmer/owner of [Lost Cities Squared](https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared)     <a href="https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared"><img src="https://cf.way2muchnoise.eu/full_860162_downloads.svg"></a> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/lost-cities-squared)
+* Programmer/owner of [Lost Cities Squared](https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared)     <a href="https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared"><img src="https://cf.way2muchnoise.eu/full_860162_downloads.svg"></a> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/lost-cities-squared?logo=modrinth)
 * Programmer/owner of [TheOneSmeagle](https://www.curseforge.com/minecraft/mc-mods/theonesmeagle)     <a href="https://www.curseforge.com/minecraft/mc-mods/theonesmeagle"><img src="https://cf.way2muchnoise.eu/full_977883_downloads.svg"></a>
 
 
