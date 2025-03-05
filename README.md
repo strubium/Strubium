@@ -5,6 +5,7 @@
 ### Strubium's certifications and knowledge:
 * [AutoDesk Inventor Certified User](https://www.credly.com/badges/dcff007b-d7ac-44f0-a63a-f4d967d3b31b/public_url)
 * Microsoft Word Certified
+* Adobe Photoshop Certified
 * Working on my HTML and Java Certification 
 
 ### Fun Facts:
