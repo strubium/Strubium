@@ -5,10 +5,18 @@
 ### Strubium's certifications and knowledge:
 * [AutoDesk Inventor Certified User](https://www.credly.com/badges/dcff007b-d7ac-44f0-a63a-f4d967d3b31b/public_url)
 * Microsoft Word Certified
+* Adobe Illustrator Certified
 * Adobe Photoshop Certified
 * Working on my HTML and Java Certification 
 
-### Fun Facts:
+## Stuff I do:
+ 
+### FRC
+* Controls (Programming and Electrical) Lead
+  * [FRC25-Reefscape](https://github.com/richardson-area-wide-robotics/FRC25-Reefscape)
+  * [LiBerry](https://github.com/richardson-area-wide-robotics/LiBerry)    
+
+### Minecraft Modding 
 * Pack/server developer for the Minecraft server [GeoPol](https://www.curseforge.com/minecraft/modpacks/geopol)  <a href="https://www.curseforge.com/minecraft/modpacks/geopol"><img src="https://cf.way2muchnoise.eu/full_geopol_downloads.svg"></a> 
 * Programmer/owner of [Lost Cities Squared](https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared)     <a href="https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared"><img src="https://cf.way2muchnoise.eu/full_860162_downloads.svg"></a> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/lost-cities-squared?logo=modrinth)
 * Programmer/owner of [TheOneSmeagle](https://www.curseforge.com/minecraft/mc-mods/theonesmeagle)     <a href="https://www.curseforge.com/minecraft/mc-mods/theonesmeagle"><img src="https://cf.way2muchnoise.eu/full_977883_downloads.svg"></a> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/theonesmeagle?logo=modrinth)
@@ -17,9 +25,7 @@
 * Programmer/owner of [F3 Is My Shawty](https://www.curseforge.com/minecraft/mc-mods/f3-is-my-shawty)<a href="https://www.curseforge.com/minecraft/mc-mods/f3-is-my-shawty"><img src="https://cf.way2muchnoise.eu/full_1178730_downloads.svg"></a>
 * Programmer/owner of [NarrusYeetus No Error](https://modrinth.com/mod/narrusyeetus-no-error) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/narrusyeetus-no-error?logo=modrinth)
 * Programmer/owner of [Telepistons Real Logger](https://modrinth.com/mod/telepistons-read-logger) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/telepistons-read-logger?logo=modrinth)
-* 1.19 Maintainer of [Compress It!](https://modrinth.com/mod/compress-it) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/compress-it?logo=modrinth)
-
-
+* 1.19 Maintainer of [Compress It!](https://github.com/strubium/Compress-It-Mod) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/compress-it?logo=modrinth)
 
 <hr>
 
