@@ -23,18 +23,10 @@
 
 <hr>
 
-<table border="50">
-  <tr>
-    <td>
-      <p align="right">
-        <p>Hits:</p>
-        <img src="https://profile-counter.glitch.me/strubium/count.svg" />
-      </p>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=strubium" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=strubium" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@strubium&langs_count=16" />
 
 
+### Hitcount 
+<hr>
+<img src="https://profile-counter.glitch.me/strubium/count.svg" />
