@@ -1,4 +1,3 @@
-
 ### ![New Piskel-2](https://github.com/strubium/Strubium/assets/113206902/8bd6c789-c5ce-43ad-ba5b-04e163fe043b) Wow! Github! ![New Piskel-2](https://github.com/strubium/Strubium/assets/113206902/8bd6c789-c5ce-43ad-ba5b-04e163fe043b)
 <hr>
 
@@ -28,9 +27,14 @@
 * 1.19 Maintainer of [Compress It!](https://github.com/strubium/Compress-It-Mod) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/compress-it?logo=modrinth)
 
 <hr>
+ 
+<table border="10">
+  <tr>
+    <td valign="top" border="10"><img src="https://github-readme-stats.vercel.app/api?username=strubium" alt="GitHub Stats" width="100%"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@strubium&langs_count=5" alt="WakaTime Stats" width="100%"></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=strubium" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@strubium&langs_count=16" />
 
 
 ### Hitcount 
