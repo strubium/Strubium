@@ -20,7 +20,7 @@
 * [JavaWindowManager](https://github.com/strubium/SmeagleBus)
   * LWJGL3 library for creating GLFW windows with Imgui support
 * [SmeagleBus](https://github.com/strubium/SmeagleBus)
-  * Simple event bus implementation using Rxjava3, supports cancelable events and listener priority.
+  * Simple event bus implementation, supports cancelable events and listener priority.
 
 ### Minecraft Modding 
 * Previous pack/server developer for [GeoPol](https://www.curseforge.com/minecraft/modpacks/geopol)  <a href="https://www.curseforge.com/minecraft/modpacks/geopol"><img src="https://cf.way2muchnoise.eu/full_geopol_downloads.svg"></a> 
