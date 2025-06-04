@@ -6,6 +6,7 @@
 * Microsoft Word Certified
 * Adobe Illustrator Certified
 * Adobe Photoshop Certified
+* Python Certified
 * Working on my HTML and Java Certification 
 
 ## Stuff I do:
@@ -14,6 +15,12 @@
 * Controls (Programming and Electrical) Lead
   * [FRC25-Reefscape](https://github.com/richardson-area-wide-robotics/FRC25-Reefscape)
   * [LiBerry](https://github.com/richardson-area-wide-robotics/LiBerry)    
+
+### Java Stuff
+* [JavaWindowManager](https://github.com/strubium/SmeagleBus)
+  * LWJGL3 library for creating GLFW windows with Imgui support
+* [SmeagleBus](https://github.com/strubium/SmeagleBus)
+  * Simple event bus implementation using Rxjava3, supports cancelable events and listener priority.
 
 ### Minecraft Modding 
 * Previous pack/server developer for [GeoPol](https://www.curseforge.com/minecraft/modpacks/geopol)  <a href="https://www.curseforge.com/minecraft/modpacks/geopol"><img src="https://cf.way2muchnoise.eu/full_geopol_downloads.svg"></a> 
