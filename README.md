@@ -17,7 +17,7 @@
   * [LiBerry](https://github.com/richardson-area-wide-robotics/LiBerry)    
 
 ### Java Stuff
-* [JavaWindowManager](https://github.com/strubium/SmeagleBus)
+* [JavaWindowManager](https://github.com/strubium/JavaWindowManager)
   * LWJGL3 library for creating GLFW windows with Imgui support
 * [SmeagleBus](https://github.com/strubium/SmeagleBus)
   * Simple event bus implementation, supports cancelable events and listener priority.
@@ -44,9 +44,3 @@
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@strubium&langs_count=5" alt="WakaTime Stats" width="100%"></td>
   </tr>
 </table>
-
-
-
-### Hitcount 
-<hr>
-<img src="https://profile-counter.glitch.me/strubium/count.svg" />
