@@ -35,6 +35,7 @@
 * Programmer/owner of [NarrusYeetus No Error](https://modrinth.com/mod/narrusyeetus-no-error) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/narrusyeetus-no-error?logo=modrinth)
 * Programmer/owner of [Telepistons Real Logger](https://modrinth.com/mod/telepistons-read-logger) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/telepistons-read-logger?logo=modrinth)
 * Programmer/owner of [Astigmatism](https://modrinth.com/mod/astigmatism) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/astigmatism?logo=modrinth)
+* 1.12.2 Maintainer of [Anti Grian Switch Reborn](https://modrinth.com/mod/anti-grian-switch-reborn) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/anti-grian-switch-reborn?logo=modrinth)
 
 <hr>
  
