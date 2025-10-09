@@ -25,7 +25,9 @@
 ### Minecraft Modding 
 * Previous pack/server developer for [GeoPol](https://www.curseforge.com/minecraft/modpacks/geopol)  <a href="https://www.curseforge.com/minecraft/modpacks/geopol"><img src="https://cf.way2muchnoise.eu/full_geopol_downloads.svg"></a> 
 * Developer for [Cubed Development](https://github.com/Cubed-Development) <a href="https://www.curseforge.com/minecraft/mc-mods/modern-warfare-cubed"><img src="https://cf.way2muchnoise.eu/full_836353_downloads.svg"></a> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/modern-warfare-cubed?logo=modrinth)
-* 1.19 Maintainer of [Compress It!](https://github.com/strubium/Compress-It-Mod) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/compress-it?logo=modrinth)
+* Previous 1.19 Maintainer of [Compress It!](https://github.com/strubium/Compress-It-Mod) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/compress-it?logo=modrinth)
+* Programmer/owner of [Compress It! (LTS)](https://github.com/strubium/Compress-It-Mod)  <img src="https://cf.way2muchnoise.eu/full_1361594_downloads.svg"> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/compress-it-lts?logo=modrinth)
+* Programmer/owner of [JustHand](https://github.com/strubium/JustHand)  <img src="https://cf.way2muchnoise.eu/full_1270412_downloads.svg">
 * Programmer/owner of [Lost Cities Squared](https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared)     <a href="https://www.curseforge.com/minecraft/mc-mods/lost-cities-squared"><img src="https://cf.way2muchnoise.eu/full_860162_downloads.svg"></a> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/lost-cities-squared?logo=modrinth)
 * Programmer/owner of [TheOneSmeagle](https://www.curseforge.com/minecraft/mc-mods/theonesmeagle)     <a href="https://www.curseforge.com/minecraft/mc-mods/theonesmeagle"><img src="https://cf.way2muchnoise.eu/full_977883_downloads.svg"></a> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/theonesmeagle?logo=modrinth)
 * Programmer/owner of [Hide Item Names](https://www.curseforge.com/minecraft/mc-mods/hide-item-names)     <a href="https://www.curseforge.com/minecraft/mc-mods/hide-item-names"><img src="https://cf.way2muchnoise.eu/full_1143211_downloads.svg"></a>
@@ -35,7 +37,7 @@
 * Programmer/owner of [NarrusYeetus No Error](https://modrinth.com/mod/narrusyeetus-no-error) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/narrusyeetus-no-error?logo=modrinth)
 * Programmer/owner of [Telepistons Real Logger](https://modrinth.com/mod/telepistons-read-logger) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/telepistons-read-logger?logo=modrinth)
 * Programmer/owner of [Astigmatism](https://modrinth.com/mod/astigmatism) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/astigmatism?logo=modrinth)
-* 1.12.2 Maintainer of [Anti Grian Switch Reborn](https://modrinth.com/mod/anti-grian-switch-reborn) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/anti-grian-switch-reborn?logo=modrinth)
+* 1.12.2 Maintainer of [Anti Grian Switch Reborn](https://modrinth.com/mod/anti-grian-switch-reborn) <img src="https://cf.way2muchnoise.eu/full_1361406_downloads.svg"> ![Modrinth Downloads](https://img.shields.io/modrinth/dt/anti-grian-switch-reborn?logo=modrinth)
 
 <hr>
  
