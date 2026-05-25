@@ -43,7 +43,7 @@
  
 <table border="10">
   <tr>
-    <td valign="top" border="10"><img src="https://github-readme-stats.vercel.app/api?username=strubium" alt="GitHub Stats" width="100%"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@strubium&langs_count=5" alt="WakaTime Stats" width="100%"></td>
+    <td valign="top" border="10"><img src="https://github-profile-trophy.vercel.app/?username=strubium" alt="GitHub Stats" width="100%"></td>
+    <td><img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=strubium&langs_count=5" alt="WakaTime Stats" width="100%"></td>
   </tr>
 </table>
